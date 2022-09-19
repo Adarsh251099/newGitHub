@@ -16,6 +16,7 @@
 		E4F003D528D87E9B007EF971 /* newGitHubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F003D428D87E9B007EF971 /* newGitHubTests.swift */; };
 		E4F003DF28D87E9B007EF971 /* newGitHubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F003DE28D87E9B007EF971 /* newGitHubUITests.swift */; };
 		E4F003E128D87E9B007EF971 /* newGitHubUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F003E028D87E9B007EF971 /* newGitHubUITestsLaunchTests.swift */; };
+		E4F003EE28D88B76007EF971 /* newtestfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4F003ED28D88B76007EF971 /* newtestfile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E4F003DA28D87E9B007EF971 /* newGitHubUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = newGitHubUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4F003DE28D87E9B007EF971 /* newGitHubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newGitHubUITests.swift; sourceTree = "<group>"; };
 		E4F003E028D87E9B007EF971 /* newGitHubUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newGitHubUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E4F003ED28D88B76007EF971 /* newtestfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newtestfile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E4F003C628D87E9B007EF971 /* Assets.xcassets */,
 				E4F003C828D87E9B007EF971 /* LaunchScreen.storyboard */,
 				E4F003CB28D87E9B007EF971 /* Info.plist */,
+				E4F003ED28D88B76007EF971 /* newtestfile.swift */,
 			);
 			path = newGitHub;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				E4F003C228D87E99007EF971 /* ViewController.swift in Sources */,
 				E4F003BE28D87E99007EF971 /* AppDelegate.swift in Sources */,
+				E4F003EE28D88B76007EF971 /* newtestfile.swift in Sources */,
 				E4F003C028D87E99007EF971 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
